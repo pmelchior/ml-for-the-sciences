@@ -38,6 +38,10 @@ Mixture-models for convenience:
 - [**Oh et al. 2017**](https://arxiv.org/abs/1612.02440)
 
   Used a Gaussian mixture model to represent the true distribution of velocities in the Milky Way disk, i.e. as a prior. In principle, we could have used any distribution with tails, but using a GMM with a Gaussian likelihood meant that many marginalizations are analytic.
+  
+- [**Hogg & Lang 2012**](http://cosmo.nyu.edu/hogg/research/2012/10/23/mixture_models.pdf) and [**Sheldon 2014**](https://arxiv.org/abs/1403.7669)
+  
+  Replace the Sersic model for galaxies with a mixture of Gaussians, so that convolution with the PSF (also represented as mixture of Gaussian) becomes analytic and fast.
 
 - Also ask Scott Carlsten about his project!
 
