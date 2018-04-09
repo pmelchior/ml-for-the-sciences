@@ -21,6 +21,12 @@ Data-driven models:
   with support for incomplete data. They apply it to the problem of deconvolving
   an X-ray (Chandra) image of a nearby galaxy that has masked regions, chip
   gaps, and known sensitivity variations across the detector.
+  
+- [**Hao et al. 2009**](http://adsabs.harvard.edu/abs/2009ApJ...702..745H)
+  
+  Similar to XD, but coming from a pure probability weighted approach it lacks the 
+  marginalization over the not-observed true sample positions. This should lead to
+  and over-interpretation of the data.
 
 Mixture-models in likelihoods:
 - [**Hogg et al. 2010**](https://arxiv.org/abs/1008.4686)
@@ -33,15 +39,25 @@ Mixture-models in likelihoods:
 
   This is just an example application of the outlier model from Hogg et al.
   2010.
-
+  
+- [**Kelly 2007**](http://adsabs.harvard.edu/abs/2007ApJ...665.1489K)
+  
+  Similar treatment to XD for regression with errors. Includies selection effects 
+  and non-detections. Gibbs sampler. 
+  
 Mixture-models for convenience:
 - [**Oh et al. 2017**](https://arxiv.org/abs/1612.02440)
 
-  Used a Gaussian mixture model to represent the true distribution of velocities in the Milky Way disk, i.e. as a prior. In principle, we could have used any distribution with tails, but using a GMM with a Gaussian likelihood meant that many marginalizations are analytic.
+  Used a Gaussian mixture model to represent the true distribution of velocities 
+  in the Milky Way disk, i.e. as a prior. In principle, we could have used any 
+  distribution with tails, but using a GMM with a Gaussian likelihood meant that 
+  many marginalizations are analytic.
   
 - [**Hogg & Lang 2012**](http://cosmo.nyu.edu/hogg/research/2012/10/23/mixture_models.pdf) and [**Sheldon 2014**](https://arxiv.org/abs/1403.7669)
   
-  Replace the Sersic model for galaxies with a mixture of Gaussians, so that convolution with the PSF (also represented as mixture of Gaussian) becomes analytic and fast.
+  Replace the Sersic model for galaxies with a mixture of Gaussians, so that 
+  convolution with the PSF (also represented as mixture of Gaussian) becomes 
+  analytic and fast.
 
 - Also ask Scott Carlsten about his project!
 
