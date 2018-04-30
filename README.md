@@ -13,8 +13,10 @@ The seminar starts out with several lecture-style meetings on the fundamentals o
 * [(Gaussian) mixture models](density-estimation/2-Gaussian-Mixture-Models.ipynb)
 * [Mixture model applications](density-estimation/3-Mixture-model-applications.md)
 * [Clustering](clustering/algorithms-cluster-number.ipynb)
+* [Classification overview](classification/1-Classification.ipynb) and [Theory for linearly separable cases](classification/2-Linear-Theory.ipynb)
 
 ### Miscellaneous Topics
+
 * [Flux estimation and its priors](bayesian-fluxes/bayesian-fluxes.ipynb)
 * [A (non-traditional) introduction to TensorFlow](https://github.com/dfm/tf-tutorial)
 
