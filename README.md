@@ -17,8 +17,9 @@ The seminar starts out with several lecture-style meetings on the fundamentals o
 
 ### Miscellaneous Topics
 
-* [Flux estimation and its priors](bayesian-fluxes/bayesian-fluxes.ipynb)
-* [A (non-traditional) introduction to TensorFlow](https://github.com/dfm/tf-tutorial)
+* [Flux estimation and its priors](bayesian-fluxes/bayesian-fluxes.ipynb) (Jim Bosch)
+* [A (non-traditional) introduction to TensorFlow](https://github.com/dfm/tf-tutorial) (Dan Foreman-Mackey)
+* [Likelihood-free inference](https://www.dropbox.com/s/zut9zezsvwpmv2i/alsing_princeton_2017.pdf?dl=0) (Justin Alsing)
 
 
 
