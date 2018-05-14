@@ -14,6 +14,7 @@ The seminar starts out with several lecture-style meetings on the fundamentals o
 * [Mixture model applications](density-estimation/3-Mixture-model-applications.md)
 * [Clustering](clustering/algorithms-cluster-number.ipynb)
 * [Classification overview](classification/1-Classification.ipynb) and [Theory for linearly separable cases](classification/2-Linear-Theory.ipynb)
+* [Neural networks 101](networks/1-nn-photo-z.ipynb)
 
 ### Miscellaneous Topics
 
