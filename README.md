@@ -29,3 +29,4 @@ The seminar starts out with several lecture-style meetings on the fundamentals o
 * [Galaxy detection and identification using deep learning and data augmentation](https://arxiv.org/abs/1809.01691) by González et a. (2018)
 * [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) by Andrej Karpathy (2015)
 * [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) by Christopher Olah (2015)
+* [Robort Burns](http://burns.adrian.pw/) by Adrian Price-Whelan
