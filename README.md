@@ -30,3 +30,5 @@ The seminar starts out with several lecture-style meetings on the fundamentals o
 * [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) by Andrej Karpathy (2015)
 * [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) by Christopher Olah (2015)
 * [Robort Burns](http://burns.adrian.pw/) by Adrian Price-Whelan
+* [The fall of RNN / LSTM](https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0) by Eugenio Culurciello (2018)
+* [Deep neural networks to enable real-time multimessenger astrophysics](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.97.044039) by George & Huerta (2018)
