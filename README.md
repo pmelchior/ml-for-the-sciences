@@ -22,6 +22,7 @@ The seminar starts out with several lecture-style meetings on the fundamentals o
 * [A (non-traditional) introduction to TensorFlow](https://github.com/dfm/tf-tutorial) (Dan Foreman-Mackey)
 * [Likelihood-free inference](https://www.dropbox.com/s/zut9zezsvwpmv2i/alsing_princeton_2017.pdf?dl=0) (Justin Alsing)
 * [Sparsity and Deep Learning for modern surveys](https://eiffl.github.io/Valencia2018) (Francois Lanusse)
+* [Practical Hamiltonian Monte Carlo in Python for Astronomers](https://github.com/dfm/pymc3-tutorial) (Dan Foreman-Mackey) 
 
 ### Papers / Blogs
 
