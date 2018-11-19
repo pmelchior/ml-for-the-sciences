@@ -24,7 +24,7 @@ The seminar starts out with several lecture-style meetings on the fundamentals o
 * [Sparsity and Deep Learning for modern surveys](https://eiffl.github.io/Valencia2018) (Francois Lanusse)
 * [Practical Hamiltonian Monte Carlo in Python for Astronomers](https://github.com/dfm/pymc3-tutorial) (Dan Foreman-Mackey)
 * [Forward, causal modeling of galaxy photometry: Hierarchical causal models ↔ machine learning](https://www.dropbox.com/s/jpmsksty9hovbgs/leistedt_2018.pdf?dl=0) (Boris Leistedt)
-* [Using deep convolutional neural networks to predict galaxy metallicity from three-color images](https://arxiv.org/abs/1810.12913) (John Wu)
+* [Using deep convolutional neural networks to predict galaxy metallicity from three-color images](https://github.com/jwuphysics/convnet-demo/) (John Wu)
 
 ### Papers / Blogs
 
