@@ -25,6 +25,7 @@ The seminar starts out with several lecture-style meetings on the fundamentals o
 * [Practical Hamiltonian Monte Carlo in Python for Astronomers](https://github.com/dfm/pymc3-tutorial) (Dan Foreman-Mackey)
 * [Forward, causal modeling of galaxy photometry: Hierarchical causal models ↔ machine learning](https://www.dropbox.com/s/jpmsksty9hovbgs/leistedt_2018.pdf?dl=0) (Boris Leistedt)
 * [Using deep convolutional neural networks to predict galaxy metallicity from three-color images](https://github.com/jwuphysics/convnet-demo/) (John Wu)
+* [Accelerating Scientific Calculations with GPUs](https://colab.research.google.com/github/evaneschneider/parallel-programming/blob/master/COMPASS_gpu_intro.ipynb) (Evan Schneider)
 
 ### Papers / Blogs
 
@@ -35,3 +36,6 @@ The seminar starts out with several lecture-style meetings on the fundamentals o
 * [Robort Burns](http://burns.adrian.pw/) by Adrian Price-Whelan
 * [The fall of RNN / LSTM](https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0) by Eugenio Culurciello (2018)
 * [Deep neural networks to enable real-time multimessenger astrophysics](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.97.044039) by George & Huerta (2018)
+* [Galaxy detection and identification using deep learning and data augmentation](https://arxiv.org/abs/1809.01691) by González et al. (2018)
+* [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/abs/1502.03044) by Xu et al. (2015)
+* [From Dark Matter to Galaxies with Convolutional Networks](http://arxiv.org/abs/1902.05965) by Zhang et al. (2019)
