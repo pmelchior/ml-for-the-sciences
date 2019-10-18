@@ -39,3 +39,10 @@ The seminar started out with several lecture-style meetings on the fundamentals 
 * [Galaxy detection and identification using deep learning and data augmentation](https://arxiv.org/abs/1809.01691) by González et al. (2018)
 * [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/abs/1502.03044) by Xu et al. (2015)
 * [From Dark Matter to Galaxies with Convolutional Networks](http://arxiv.org/abs/1902.05965) by Zhang et al. (2019)
+* [Hamiltonian Neural Networks](https://greydanus.github.io/2019/05/15/hamiltonian-nns/) by Greydanus et al. (2019)
+
+### Conferences
+
+* [Interpretable Learning in Physical Sciences](https://www.ipam.ucla.edu/programs/workshops/workshop-ii-interpretable-learning-in-physical-sciences/?tab=schedule) October 14 - 18, 2019
+* [Theory of Deep Learning: Where next?](https://www.math.ias.edu/wtdl) October 15 - 18, 2019
+* [Machine Learning and the Physical Sciences](https://ml4physicalsciences.github.io/) December 14, 2019
