@@ -40,6 +40,7 @@ The seminar started out with several lecture-style meetings on the fundamentals 
 * [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/abs/1502.03044) by Xu et al. (2015)
 * [From Dark Matter to Galaxies with Convolutional Networks](http://arxiv.org/abs/1902.05965) by Zhang et al. (2019)
 * [Hamiltonian Neural Networks](https://greydanus.github.io/2019/05/15/hamiltonian-nns/) by Greydanus et al. (2019)
+* [Differentiable Convex Optimization Layers](https://locuslab.github.io/2019-10-28-cvxpylayers/) by Agrawal et al. (2019)
 
 ### Conferences
 
